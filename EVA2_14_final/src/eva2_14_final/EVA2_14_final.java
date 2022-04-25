@@ -60,6 +60,9 @@ class Persona{
         this.nombre = nombre;
     }
 }
-//final: detener la herencia
-//abstract: impide la creación de objetos de la clase (instanciación)
-//polimorfismo --> herencia: cuando objetos de una clase se comportan como objetos de otra clase
+//final: detener la herencia, definir constantes.
+//abstract: impide la creación de objetos de la clase (instanciación), tener método abstractos (puro nombre, sin cuerpo)
+//extends (extender, ampliar, agregar): Sirve para la herencia, toma las características de la clase padre y la incorpora a su clase. Agregar cosas de otra clase.
+//implements: Se utiliza con interfaces, nada más declaran código. Pega interfaces.
+//polimorfismo --> clases relacionadas por herencia: cuando objetos de una clase se comportan como objetos de otra clase distinta. Simplificar las clases. Emparejar los objetos.
+//POO -> categorías.
