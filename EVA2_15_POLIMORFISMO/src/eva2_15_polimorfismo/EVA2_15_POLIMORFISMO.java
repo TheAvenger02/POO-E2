@@ -23,3 +23,5 @@ public class EVA2_15_POLIMORFISMO {
         Persona persoEstu = estudiante;
     }
 }
+
+//instanceOf --> java --> instancia de una clase o interfaz
